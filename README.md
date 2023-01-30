@@ -1,2 +1,3 @@
 # terraformdivision
-terraform division ctl, storing and updating terraform notes.
+This Repository will help you to setup a terraform HQ.
+
